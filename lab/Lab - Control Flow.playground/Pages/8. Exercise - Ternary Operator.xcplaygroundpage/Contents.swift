@@ -7,6 +7,7 @@
  */
 let number1 = 14
 let number2 = 25
+
 /*
  let number1 = 30
  let number2 = 25
